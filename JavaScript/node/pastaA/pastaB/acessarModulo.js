@@ -1,4 +1,4 @@
-const moduloA = require('../../moduloa')
+const moduloA = require('../../moduloA')
 console.log(moduloA.ola)
 
 const saudacao = require('saudacao')
